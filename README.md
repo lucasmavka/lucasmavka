@@ -1,5 +1,4 @@
 ![Header image](https://github.com/lucasmavka/lucasmavka/blob/main/images/header.png)
-)
 
 <h2> Hi there, I'm  Vishal Tyagi !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
@@ -59,8 +58,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-
-![Snake animation](https://github.com/mrfox2003/mrfox2003/blob/output/github-contribution-grid-snake.svg)
 
 
 ![Footer image](https://github.com/lucasmavka/lucasmavka/blob/main/images/footer.png)
