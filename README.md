@@ -1,4 +1,5 @@
-![Header image](https://raw.githubusercontent.com/mrfox2003/mrfox2003/master/assets/header.jpg)
+![Header image](![PicsArt_02-17-11 58 54 jpg](https://user-images.githubusercontent.com/100923150/184939493-e69f8395-8ba9-43f3-8f6b-b17c2407ce82.png)
+)
 
 <h2> Hi there, I'm  Vishal Tyagi !<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
